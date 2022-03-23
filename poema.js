@@ -1,4 +1,4 @@
-var p_1 = "En estos días indiscretos,\n";
+/* var p_1 = "En estos días indiscretos,\n";
 var p_2 = "llenos de lujuria, sólo pienso en ti\n";
 var p_3 = "las ganas de tenerte cerca a mi, entre sabanas blancas,\n";
 var p_4 = "de una manera tan carnal, tan obsena, tan líbida...\n";
@@ -12,4 +12,4 @@ var p_11 = "Poema escrito por Fritz Guzmán Santaigo";
 
 var poesia = p_1 + p_2 + p_3 + p_4 + p_5 + p_6 + p_7 + p_8 + p_9 + p_10 + p_11;
 
-console.log(poesia);
+console.log(poesia); */
